@@ -1,13 +1,15 @@
 ---
 title: "Сансарбаяр анхны веб"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+subtitle: Шинэлэг мэдээ мэдээллийг цаг алдалгүй хүргэнэ.
+image: ![image](https://user-images.githubusercontent.com/88652637/200154138-d445def3-e063-4597-ac36-df395ef7631e.png)
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Яагаад биднийг сонгох вэ?
+    text: "Бид мэдээллийг хамгийн хурдан бөгөөд шуурхай хүргэхийн хажуугаар таны хүсэл сонирхолд зориулан нийтлэдэг болно."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Бидний хот"
+    text: "Улаанбаатар хот Монгол Улсын төв хэсэгт хуучнаар Алтан тэвшийн хөндий, өнөөгийнхөөр Туул-Сэлбийн гол бэлчир хөндийд, далайн түвшнээс дээш 1300-1350 метр өндөрт Богд хан, Сонгино хайрхан, Чингэлтэй уул, Баянзүрх дөрвөн уулаар хүрээлэгдэн оршдог.
+
+1639 онд Ширээт цагаан нуурт Өндөр гэгээнийг залж орд өргөө боссоноор Улаанбаатар хотын өмнөх суурин байгуулагджээ. 1778 он хүртэл олон газар нүүдэллэж байгаад одоогийн байрлалдаа тогтсон. Өмнө нь шашин, худалдааны төв байсан бол 1911 оноос улсын нийслэл болж, XX зуунд барилгажиж, аж үйлдвэржиж, XXI зуунд их хотын төрх бүрдэж байна. Улаанбаатар Монгол Улсын улс төр, эдийн засаг, соёл, технологийн төв юм."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
